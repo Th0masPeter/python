@@ -1,0 +1,6 @@
+x = input("enter a name:- ")
+y = input("enter another name:- ")
+z = input("enter a favourite food that you like:- ")
+print("tom loves " + x )
+print("jo loves " + y)
+print("both of them love eating " + z)
